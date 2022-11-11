@@ -6,10 +6,10 @@ Written in Python with Scapy.
 
 Install [python 2.7](https://www.python.org/downloads/) and  [scapy](http://scapy.readthedocs.io/en/latest/installation.html#installing-scapy-v2-x).
 Clone this project :
-> git clone https://github.com/pthevenet/Simple-NIDS.git
+> git clone https://github.com/Kavindhren/Simple2-NIDS-master.git
 
 # Run
-  > cd Simple-NIDS
+  > cd Simple2-NIDS-master
 
 and
 > sudo python -B src/Simple-NIDS.py rules/exampleRules.txt
